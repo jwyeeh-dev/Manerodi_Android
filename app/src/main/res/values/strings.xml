@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Manerodi</string>
+    <string name="textView_subtitle">손과 눈으로</string>
+
+    <string name="textView_feeling_music">느끼는 음악교과서</string>
+
+    <string name="textView_title">매너로디</string>
+
+    <string name="textView_touch">Touch</string>
+
+</resources>

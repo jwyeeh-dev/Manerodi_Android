@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_feeling_music">15sp</dimen>
+    <dimen name="text_size_title">40sp</dimen>
+    <dimen name="text_size_touch">15sp</dimen>
+</resources>
