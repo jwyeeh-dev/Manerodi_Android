@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Manerodi</string>
+    <string name="app_name">매너로디</string>
     <string name="textView_subtitle">손과 눈으로</string>
 
     <string name="textView_feeling_music">느끼는 음악교과서</string>
@@ -7,5 +7,20 @@
     <string name="textView_title">매너로디</string>
 
     <string name="textView_touch">Touch</string>
+    <string name="select_school">
+        소속을 선택해주세요.
+    </string>
+
+    <string name="elementary_student">
+        초등학생
+    </string>
+
+    <string name="middle_student">
+        중학생
+    </string>
+
+    <string name="high_student">
+        고등학생
+    </string>
 
 </resources>
